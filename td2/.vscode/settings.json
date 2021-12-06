@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\21626\\Downloads\\javolution-5.5.1.jar",
+        "c:\\Users\\21626\\Downloads\\BowlerScriptingKernel-0.20.8.jar"
+    ],
+    "java.project.sourcePaths": [
+        "ex3",
+        "ex2",
+        "ex1",
+        "ex4"
+    ]
+}
